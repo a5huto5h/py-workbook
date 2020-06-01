@@ -1,0 +1,1 @@
+usertext = input("Enter your name: ")print("Hello ", usertext)
