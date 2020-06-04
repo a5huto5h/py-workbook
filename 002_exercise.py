@@ -1,1 +1,1 @@
-usertext = input("Enter your name: ")print("Hello ", usertext)
+def print_hello(x):    print("Hello", x)if __name__ == "__main__":    usertext = input("Enter your name: ")    print_hello(usertext)
