@@ -1,1 +1,1 @@
-def print_address():    print("Ashutosh Pandey")    print("SB-302, Shriram Spandhana Apartments,")    print("Challaghatta, Yemalur Post,")    print("Bengaluru 560037")    print("Karnataka, India")if __name__ == "__main__":    print_address()
+def print_address():    print("Ashutosh Pandey")    print("House No., Apartment Name,")    print("Area, Post Office,")    print("Bengaluru 560037")    print("Karnataka, India")if __name__ == "__main__":    print_address()
